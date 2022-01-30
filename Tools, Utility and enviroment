@@ -1,0 +1,2 @@
+Random Notes 
+1. To get file from tftp server use command " tptp -r filename -g IP address"
